@@ -22,6 +22,6 @@ pip install -r requirements.txt
 Code is soon coming!
 
 ## Contact
-Should you have any question, please contact [Shuhou Yang].
+Should you have any question, please contact [Shuzhou Yang].
 
 [Shuzhou Yang]:szyang@stu.pku.edu.cn
