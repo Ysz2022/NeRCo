@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 
 ## Quick Run
-Code is soon coming!
+Code is coming soon!
 
 ## Contact
 Should you have any question, please contact [Shuzhou Yang].
