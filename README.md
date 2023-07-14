@@ -1,7 +1,9 @@
 # Implicit Neural Representation for Cooperative Low-light Image Enhancement
-This is an implement of the NeRCo,
-**“[Implicit Neural Representation for Cooperative Low-light Image Enhancement](https://arxiv.org/pdf/2303.11722.pdf)”**, 
-Shuzhou Yang, Moxuan Ding, Yanmin Wu, Zihan Li, Jian Zhang*.
+Welcome! This is the official PyTorch implementation for our paper: 
+
+🤖 [ICCV2023] [**Implicit Neural Representation for Cooperative Low-light Image Enhancement**](https://arxiv.org/pdf/2303.11722.pdf)
+
+Authors: Shuzhou Yang, Moxuan Ding, Yanmin Wu, Zihan Li, Jian Zhang*.
 
 ## Overview
 ![avatar](Overview.PNG)
