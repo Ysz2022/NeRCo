@@ -3,7 +3,7 @@ Welcome! This is the official PyTorch implementation for our paper:
 
 🤖 [ICCV 2023] [**Implicit Neural Representation for Cooperative Low-light Image Enhancement**](https://arxiv.org/pdf/2303.11722.pdf)
 
-Authors: Shuzhou Yang, Moxuan Ding, Yanmin Wu, Zihan Li, Jian Zhang*.
+Authors: [Shuzhou Yang](https://scholar.google.com/citations?user=y-gvXecAAAAJ&hl=zh-CN), Moxuan Ding, Yanmin Wu, Zihan Li, [Jian Zhang*](https://jianzhang.tech/).
 
 ## 🧩News
 - (2023.7.14) Our paper has been accepted to ICCV 2023!
