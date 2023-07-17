@@ -27,8 +27,8 @@ pip install -r requirements.txt
 You need **create** a directory `./saves/[YOUR-MODEL]` (e.g., `./saves/LSRW`). \
 Download the pre-trained models and put them into `./saves/[YOUR-MODEL]`. \
 Here we release two versions of the pre-trained model, which are trained on [LSRW](https://github.com/JianghaiSCU/R2RNet#dataset) and [LOL](https://daooshee.github.io/BMVC2018website/) datasets respectively:
-- [**NeRCo trained on LSRW**](https://drive.google.com/file/d/1S1fwzwnfG-J-HloU9wTv07ztJaHsG4GF/view?usp=sharing)
-- [**NeRCo trained on LOL**](https://drive.google.com/file/d/18oN8yc-UOgsoTjiBQjir-F5QFvNeK5as/view?usp=sharing)
+- [**NeRCo trained on LSRW**](https://drive.google.com/file/d/1DUT2DdD0Ro4w20MAMUH0Z8pA4xaxfEAu/view?usp=sharing)
+- [**NeRCo trained on LOL**](https://drive.google.com/file/d/1uL4u1iXN2xoVr4Owr5uZgYY3k03nvJZ3/view?usp=sharing)
 
 
 ## Quick Run
