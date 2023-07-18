@@ -1,11 +1,15 @@
-# Implicit Neural Representation for Cooperative Low-light Image Enhancement
-Welcome! This is the official PyTorch implementation for our paper: 
+<div align="center">
 
-🤖 [ICCV 2023] [**Implicit Neural Representation for Cooperative Low-light Image Enhancement**](https://arxiv.org/pdf/2303.11722.pdf)
+# 【ICCV'2023 🔥】Implicit Neural Representation for Cooperative Low-light Image Enhancement
+[![Conference](http://img.shields.io/badge/ICCV-2023-FFD93D.svg)](https://iccv2023.thecvf.com/)
+[![Paper](http://img.shields.io/badge/Paper-arxiv.2303.11722-FF6B6B.svg)](https://arxiv.org/pdf/2303.11722.pdf)
+</div>
+
+Welcome! This is the official PyTorch implementation for our paper: [**Implicit Neural Representation for Cooperative Low-light Image Enhancement**](https://arxiv.org/pdf/2303.11722.pdf)
 
 Authors: [Shuzhou Yang](https://scholar.google.com/citations?user=y-gvXecAAAAJ&hl=zh-CN), Moxuan Ding, Yanmin Wu, Zihan Li, [Jian Zhang*](https://jianzhang.tech/).
 
-## 🧩News
+## 📣 News
 - (2023.7.14) Our paper has been accepted to ICCV 2023!
 - (2023.7.17) Our code has been released!
 
@@ -23,7 +27,7 @@ Type the command:
 pip install -r requirements.txt
 ```
 
-## Download
+## 🧩 Download
 You need **create** a directory `./saves/[YOUR-MODEL]` (e.g., `./saves/LSRW`). \
 Download the pre-trained models and put them into `./saves/[YOUR-MODEL]`. \
 Here we release two versions of the pre-trained model, which are trained on [LSRW](https://github.com/JianghaiSCU/R2RNet#dataset) and [LOL](https://daooshee.github.io/BMVC2018website/) datasets respectively:
@@ -31,7 +35,7 @@ Here we release two versions of the pre-trained model, which are trained on [LSR
 - [**NeRCo trained on LOL**](https://drive.google.com/file/d/1uL4u1iXN2xoVr4Owr5uZgYY3k03nvJZ3/view?usp=sharing)
 
 
-## Quick Run
+## 🚀 Quick Run
 - Create directories `./dataset/testA` and `./dataset/testB`. Put your test images in `./dataset/testA` (And you should keep whatever one image in `./dataset/testB` to make sure program can start.)
 - Test the model with the pre-trained weights:
 ```bash
@@ -40,7 +44,7 @@ CUDA_VISIBLE_DEVICES=0 python test.py --dataroot ./dataset --name [YOUR-MODEL] -
 - The test results will be saved to a directory here: `./results/[YOUR-MODEL]/test_latest/images`.
 - The test results will be saved to a html file here: `./results/[YOUR-MODEL]/test_latest/index.html`.
 
-## Training
+## 🤖 Training
 - Download training low-light data and put it in `./dataset/trainA`.
 - Randomly adopt hundreds of normal-light images and put them in `./dataset/trainB`.
 - Train a model:
@@ -52,7 +56,7 @@ CUDA_VISIBLE_DEVICES=0 python train.py --dataroot ./dataset --name [YOUR-MODEL]
 - Loss curve can be found in the directory `./loss`.
 - To see more intermediate results, check out `./saves/[YOUR-MODEL]/web/index.html`.
 
-## Citation
+## 📌 Citation
 
 If you find this code useful for your research, please use the following BibTeX entry.
 
