@@ -5,7 +5,7 @@
 [![Paper](http://img.shields.io/badge/Paper-arxiv.2303.11722-FF6B6B.svg)](https://arxiv.org/pdf/2303.11722)
 </div>
 
-Welcome! The implementation of the paper: [**Implicit Neural Representation for Cooperative Low-light Image Enhancement**](https://arxiv.org/pdf/2303.11722)
+Welcome! This is the official implementation of our paper: [**Implicit Neural Representation for Cooperative Low-light Image Enhancement**](https://arxiv.org/pdf/2303.11722)
 
 Authors: [Shuzhou Yang](https://scholar.google.com/citations?user=y-gvXecAAAAJ&hl=zh-CN), Moxuan Ding, Yanmin Wu, Zihan Li, [Jian Zhang*](https://jianzhang.tech/).
 
