@@ -10,8 +10,8 @@ Welcome! This is the official implementation of our paper: [**Implicit Neural Re
 Authors: [Shuzhou Yang](https://scholar.google.com/citations?user=y-gvXecAAAAJ&hl=zh-CN), Moxuan Ding, Yanmin Wu, Zihan Li, [Jian Zhang*](https://jianzhang.tech/).
 
 ## 📣 News
-- (2023.7.14) Our paper has been accepted to ICCV 2023!
-- (2023.7.17) Our code has been released!
+- **_(2023.7.14)_**: 🎉🎉🎉 Our paper has been accepted to ICCV 2023❗️
+- **_(2023.7.17)_**: Our code has been released❗️
 
 ## Overview
 ![avatar](Overview.PNG)
