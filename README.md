@@ -21,7 +21,7 @@ Authors: [Shuzhou Yang](https://scholar.google.com/citations?user=y-gvXecAAAAJ&h
 - Python 3.8
 - CPU or NVIDIA GPU + CUDA CuDNN
 
-## Setup
+## 🔑 Setup
 Type the command:
 ```
 pip install -r requirements.txt
