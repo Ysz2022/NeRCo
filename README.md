@@ -41,7 +41,7 @@ Here we release two versions of the pre-trained model, which are trained on [LSR
 ```bash
 CUDA_VISIBLE_DEVICES=0 python test.py --dataroot ./dataset --name [YOUR-MODEL] --preprocess=none
 ```
-- The test results will be saved to a directory here: `./results/[YOUR-MODEL]/test_latest/images` and a html file here: `./results/[YOUR-MODEL]/test_latest/index.html`.
+- The test results will be saved to a directory here: `./results/[YOUR-MODEL]/test_latest/images`, and will also be displayed in a html file here: `./results/[YOUR-MODEL]/test_latest/index.html`.
 
 ## 🤖 Training
 - Download training low-light data and put it in `./dataset/trainA`.
