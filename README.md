@@ -2,10 +2,10 @@
 
 # 【ICCV'2023🔥】Implicit Neural Representation for Cooperative Low-light Image Enhancement
 [![Conference](http://img.shields.io/badge/ICCV-2023-FFD93D.svg)](https://iccv2023.thecvf.com/)
-[![Paper](http://img.shields.io/badge/Paper-arxiv.2303.11722-FF6B6B.svg)](https://arxiv.org/pdf/2303.11722)
+[![Paper](http://img.shields.io/badge/Paper-arxiv.2303.11722-FF6B6B.svg)](https://arxiv.org/abs/2303.11722)
 </div>
 
-Welcome! This is the official implementation of our paper: [**Implicit Neural Representation for Cooperative Low-light Image Enhancement**](https://arxiv.org/pdf/2303.11722)
+Welcome! This is the official implementation of our paper: [**Implicit Neural Representation for Cooperative Low-light Image Enhancement**](https://arxiv.org/abs/2303.11722)
 
 Authors: [Shuzhou Yang](https://ysz2022.github.io/), Moxuan Ding, Yanmin Wu, Zihan Li, [Jian Zhang*](https://jianzhang.tech/).
 
