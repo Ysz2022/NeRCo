@@ -2,7 +2,7 @@
 
 # 【ICCV'2023🔥】Implicit Neural Representation for Cooperative Low-light Image Enhancement
 [![Conference](http://img.shields.io/badge/ICCV-2023-FFD93D.svg)](https://iccv2023.thecvf.com/)
-[![Paper](http://img.shields.io/badge/Paper-NeRCo-FF6B6B.svg)](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Implicit_Neural_Representation_for_Cooperative_Low-light_Image_Enhancement_ICCV_2023_paper.html)
+[![Paper](http://img.shields.io/badge/Paper-Openaccess-FF6B6B.svg)](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Implicit_Neural_Representation_for_Cooperative_Low-light_Image_Enhancement_ICCV_2023_paper.html)
 </div>
 
 Welcome! This is the official implementation of our paper: [**Implicit Neural Representation for Cooperative Low-light Image Enhancement**](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Implicit_Neural_Representation_for_Cooperative_Low-light_Image_Enhancement_ICCV_2023_paper.html)
