@@ -2,7 +2,7 @@
 
 # 【ICCV'2023🔥】Implicit Neural Representation for Cooperative Low-light Image Enhancement
 [![Conference](http://img.shields.io/badge/ICCV-2023-FFD93D.svg)](https://iccv2023.thecvf.com/)
-[![Paper](http://img.shields.io/badge/Paper-arxiv.2303.11722-FF6B6B.svg)](https://arxiv.org/abs/2303.11722)
+[![Paper](http://img.shields.io/badge/Paper-FF6B6B.svg)](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Implicit_Neural_Representation_for_Cooperative_Low-light_Image_Enhancement_ICCV_2023_paper.html)
 </div>
 
 Welcome! This is the official implementation of our paper: [**Implicit Neural Representation for Cooperative Low-light Image Enhancement**](https://arxiv.org/abs/2303.11722)
@@ -60,10 +60,12 @@ CUDA_VISIBLE_DEVICES=0 python train.py --dataroot ./dataset --name [YOUR-MODEL]
 If you find this code useful for your research, please use the following BibTeX entry.
 
 ```bibtex
-@inproceedings{Yang2023NeRCo,
-  title={Implicit Neural Representation for Cooperative Low-light Image Enhancement},
-  author={Yang, Shuzhou and Ding, Moxuan and Wu, Yanmin and Li, Zihan and Zhang, Jian},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  year={2023}
+@InProceedings{Yang_2023_ICCV,
+    author    = {Yang, Shuzhou and Ding, Moxuan and Wu, Yanmin and Li, Zihan and Zhang, Jian},
+    title     = {Implicit Neural Representation for Cooperative Low-light Image Enhancement},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {12918-12927}
 }
 ```
