@@ -18,5 +18,6 @@ class TestOptions(BaseOptions):
         parser.set_defaults(model='NeRCo')
         # To avoid cropping, the load_size should be the same as crop_size
         parser.set_defaults(load_size=parser.get_default('crop_size'))
+        parser.add_argument('--dataset_mode', type=str, default='unaligned_test')
         self.isTrain = False
         return parser
