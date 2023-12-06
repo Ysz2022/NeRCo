@@ -19,7 +19,7 @@ Authors: [Shuzhou Yang](https://ysz2022.github.io/), Moxuan Ding, Yanmin Wu, Zih
 ## Prerequisites
 - Linux or macOS
 - Python 3.8
-- CPU or NVIDIA GPU + CUDA CuDNN
+- NVIDIA GPU + CUDA CuDNN
 
 ## 🔑 Setup
 Type the command:
