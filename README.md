@@ -10,8 +10,8 @@ Welcome! This is the official implementation of our paper: [**Implicit Neural Re
 Authors: [Shuzhou Yang](https://ysz2022.github.io/), [Moxuan Ding](https://github.com/Dicardo), [Yanmin Wu](https://scholar.google.com/citations?user=11sQNWwAAAAJ&hl=zh-CN&oi=ao), [Zihan Li](https://huanglizi.github.io/), [Jian Zhang](https://jianzhang.tech/)*.
 
 ## 📣 News
-- **_(2023.7.14)_**: 🎉🎉🎉 Our paper has been accepted to ICCV 2023❗️
 - **_(2023.7.17)_**: Our code has been released❗️
+- **_(2023.7.14)_**: 🎉🎉🎉 Our paper has been accepted to ICCV 2023❗️
 
 ## Overview
 ![avatar](Overview.PNG)
@@ -41,7 +41,7 @@ Here we release two versions of the pre-trained model, which are trained on [LSR
 ```bash
 CUDA_VISIBLE_DEVICES=0 python test.py --dataroot ./dataset --name [YOUR-MODEL] --preprocess=none
 ```
-- The test results will be saved to a directory here: `./results/[YOUR-MODEL]/test_latest/images`, and will also be displayed in a html file here: `./results/[YOUR-MODEL]/test_latest/index.html`.
+- The test results will be saved to a directory here: `./results/[YOUR-MODEL]/test_latest/images`, and will also be displayed in an html file here: `./results/[YOUR-MODEL]/test_latest/index.html`.
 
 ## 🤖 Training
 - Download training low-light data and put it in `./dataset/trainA`.
